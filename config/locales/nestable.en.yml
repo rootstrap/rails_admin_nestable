@@ -11,4 +11,5 @@ en:
         success: "Success"
         error: "Error"
         update: "Update"
+        save: "Save"
         live_update: "Live update"
